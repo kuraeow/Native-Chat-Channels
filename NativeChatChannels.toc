@@ -1,0 +1,14 @@
+## Interface: 120001, 120000
+## Title: Native Chat Channels
+## Notes: Native channel switcher
+## Notes-ruRU: Нативный переключатель каналов
+## Author: kuraeOW
+## Version: 1.0.1
+## SavedVariables: NativeChatChannelsDB
+## IconTexture: Interface\AddOns\NativeChatChannels\Media\nccIcon
+## OptionalDeps: SharedMedia, SharedMediaAdditionalFonts
+
+Init.lua
+Localization\enUS.lua
+Localization\ruRU.lua
+NativeChatChannels.lua
